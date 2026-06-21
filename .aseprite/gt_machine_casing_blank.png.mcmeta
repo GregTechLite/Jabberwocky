@@ -1,0 +1,13 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "CTM",
+    "layer": "CUTOUT",
+    "textures": [
+      "modid:blocks/path/gt_machine_casing_blank_ctm"
+    ],
+    "extra": {
+      "connect_inside": true
+    }
+  }
+}
