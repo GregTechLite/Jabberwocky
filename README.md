@@ -3,7 +3,11 @@
 **Jabberwocky** is an experimental Jappa Style Resource Pack for [**GregTech CE: Unofficial**][GTCEu] and its **Addon Mods**.
 
 ## :books: Features
-TODO
+> [!TIP]
+> For Minecraft Vanilla textures overriden with Jappa Style, please see [**Modernity**][Modernity] for MC 1.12.2.
+> This Resource Pack only support GregTech part textures.
+
+- Jappa Style textures with a little programmer art.
 
 ## :coffee: Credits
 
@@ -16,3 +20,4 @@ Salute and thank all credit authors :)
 
 [GTRefreshed]: https://www.curseforge.com/minecraft/texture-packs/gregtech-refreshed
 [GTCEu]: https://www.curseforge.com/minecraft/mc-mods/gregtech-ce-unofficial
+[Modernity]: https://www.curseforge.com/minecraft/texture-packs/modernity/files/3103639
