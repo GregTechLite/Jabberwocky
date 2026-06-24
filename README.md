@@ -6,6 +6,7 @@
 > [!TIP]
 > For Minecraft Vanilla textures overriden with Jappa Style, please see [**Modernity**][Modernity] for MC 1.12.2.
 > This Resource Pack only support GregTech part textures.
+
 > [!NOTE]
 > This Resource Pack support many connected textures, if you want to make buses and hatches also connected,
 > please use [SussyPatches][SussyPatches] or other supported patch mod.
