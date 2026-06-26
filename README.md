@@ -9,7 +9,7 @@
 
 > [!NOTE]
 > This Resource Pack support many connected textures, if you want to make buses and hatches also connected,
-> please use [SussyPatches][SussyPatches] or other supported patch mod.
+> please use [**SussyPatches**][SussyPatches] or other supported patch mod.
 
 - Jappa Style textures with a little programmer art.
 
